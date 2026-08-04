@@ -1,5 +1,4 @@
 # Banking fraud-detection-using-SQL-python-power-bi
-# Banking Fraud Detection Dashboard
 
 # Project Overview
 The Banking Fraud Detection Dashboard is an end-to-end data analytics project designed to analyze banking transactions and identify fraudulent activities. The project uses Python to generate synthetic banking data, MySQL for data storage, and Power BI to create an interactive dashboard for fraud analysis and business insights.
